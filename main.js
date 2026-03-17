@@ -28,3 +28,4 @@ export function initContent({ document }) {
   ].join(";");
 
   document.documentElement.appendChild(el);
+}
